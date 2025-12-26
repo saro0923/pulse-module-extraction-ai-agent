@@ -58,7 +58,6 @@ This precision-first approach avoids unreliable or ambiguous submodules.
 ## Output
 Structured JSON output with the following format:
 
-```json
 {
 "module": "Module Name",
 "Description": "Detailed description of the module",
@@ -84,6 +83,7 @@ Example Output
     "Submodules": {}
   }
 ]
+
 Tech Stack
 
 Python
@@ -115,8 +115,7 @@ python src/main.py
 
 Demo Video
 
-Loom Demo:
-https://www.loom.com/share/d06fc4184a0947869b01f1bd420e3c78
+Loom Demo: https://www.loom.com/share/d06fc4184a0947869b01f1bd420e3c78
 
 Project Structure
 module-extraction-ai-agent/
