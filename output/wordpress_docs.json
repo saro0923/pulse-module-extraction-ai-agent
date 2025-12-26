@@ -1,0 +1,53 @@
+[
+  {
+    "module": "Getting Started",
+    "Description": "This module handles functionality related to getting started.",
+    "Submodules": {}
+  },
+  {
+    "module": "Publishing",
+    "Description": "This module handles functionality related to publishing.",
+    "Submodules": {}
+  },
+  {
+    "module": "Community",
+    "Description": "This module handles functionality related to community.",
+    "Submodules": {}
+  },
+  {
+    "module": "Media",
+    "Description": "This module handles functionality related to media.",
+    "Submodules": {}
+  },
+  {
+    "module": "Appearance",
+    "Description": "This module handles functionality related to appearance.",
+    "Submodules": {}
+  },
+  {
+    "module": "Development",
+    "Description": "This module handles functionality related to development.",
+    "Submodules": {}
+  },
+  {
+    "module": "Plugins",
+    "Description": "This module handles functionality related to plugins.",
+    "Submodules": {
+      "Community building and management": "This module handles functionality related to community building and management.",
+      "Documentation": "This module handles functionality related to documentation.",
+      "Translation and localization": "This module handles functionality related to translation and localization.",
+      "Training and education": "This module handles functionality related to training and education.",
+      "Testing and QA": "This module handles functionality related to testing and qa."
+    }
+  },
+  {
+    "module": "Security",
+    "Description": "This module handles functionality related to security.",
+    "Submodules": {}
+  },
+  {
+    "module": "Maintenance",
+    "Description": "This module handles functionality related to maintenance.",
+    "Submodules": {}
+  }
+]
