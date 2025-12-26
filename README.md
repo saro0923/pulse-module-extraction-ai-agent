@@ -117,15 +117,3 @@ Demo Video
 
 Loom Demo: https://www.loom.com/share/d06fc4184a0947869b01f1bd420e3c78
 
-Project Structure
-module-extraction-ai-agent/
-├── src/
-│   ├── crawler.py
-│   ├── content_extractor.py
-│   ├── module_builder.py
-│   ├── llm_agent.py
-│   └── main.py
-├── output/
-│   └── wordpress_docs.json
-├── requirements.txt
-└── README.md
